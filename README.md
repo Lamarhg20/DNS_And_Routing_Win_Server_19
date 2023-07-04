@@ -7,7 +7,7 @@ This is a simple set up using a hypervisor to set DNS and Routing on a Windows S
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>VirtualBox</b> 
 
 <h2>Environments Used </h2>
 
